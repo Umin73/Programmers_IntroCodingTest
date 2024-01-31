@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="166aeada-6583-43fc-91ff-ba320b83c88a" name="변경" comment="240129">
-      <change afterPath="$PROJECT_DIR$/src/Day02/day02_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day02/day02_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day02/day02_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day02/day02_4.java" afterDir="false" />
+    <list default="true" id="166aeada-6583-43fc-91ff-ba320b83c88a" name="변경" comment="240131">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day03/day03_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day03/day03_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day03/day03_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day03/day03_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,43 +45,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "E:/Study/Java/Programmers_IntroCodingTest"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.day02_4">
-    <configuration name="day01_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day01.day01_4" />
+  <component name="RunManager" selected="애플리케이션.day03_3">
+    <configuration name="Day03.day03_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day03.day03_1" />
       <module name="Programmers_IntroCodingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="day02_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day02.day02_1" />
-      <module name="Programmers_IntroCodingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="day02_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day02.day02_2" />
-      <module name="Programmers_IntroCodingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day02.*" />
+          <option name="PATTERN" value="Day03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,13 +90,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="day03_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day03.day03_2" />
+      <module name="Programmers_IntroCodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day03_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day03.day03_3" />
+      <module name="Programmers_IntroCodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.day03_3" />
+        <item itemvalue="애플리케이션.day03_2" />
+        <item itemvalue="애플리케이션.Day03.day03_1" />
         <item itemvalue="애플리케이션.day02_4" />
         <item itemvalue="애플리케이션.day02_3" />
-        <item itemvalue="애플리케이션.day02_2" />
-        <item itemvalue="애플리케이션.day02_1" />
-        <item itemvalue="애플리케이션.day01_4" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +136,7 @@
       <updated>1706526392921</updated>
       <workItem from="1706526395988" duration="894000" />
       <workItem from="1706592579418" duration="152000" />
-      <workItem from="1706697924752" duration="3014000" />
+      <workItem from="1706697924752" duration="5262000" />
     </task>
     <task id="LOCAL-00001" summary="240129">
       <created>1706526912358</created>
@@ -150,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706527230239</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="240131">
+      <created>1706701252891</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706701252891</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +179,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="240129_" />
     <MESSAGE value="240129" />
-    <option name="LAST_COMMIT_MESSAGE" value="240129" />
+    <MESSAGE value="240131" />
+    <option name="LAST_COMMIT_MESSAGE" value="240131" />
   </component>
 </project>
