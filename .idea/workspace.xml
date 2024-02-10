@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="166aeada-6583-43fc-91ff-ba320b83c88a" name="변경" comment="240209">
-      <change afterPath="$PROJECT_DIR$/src/Day11/day11_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11/day11_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11/day11_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11/day11_4.java" afterDir="false" />
+    <list default="true" id="166aeada-6583-43fc-91ff-ba320b83c88a" name="변경" comment="240210">
+      <change afterPath="$PROJECT_DIR$/src/Day12/day12_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day12/day12_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day12/day12_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day12/day12_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,59 +49,7 @@
     "last_opened_file_path": "E:/Study/Java/Programmers_IntroCodingTest"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.day11_4">
-    <configuration name="day10_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day10.day10_4" />
-      <module name="Programmers_IntroCodingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="day11_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day11.day11_1" />
-      <module name="Programmers_IntroCodingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="day11_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day11.day11_2" />
-      <module name="Programmers_IntroCodingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="day11_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day11.day11_3" />
-      <module name="Programmers_IntroCodingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.day12_4">
     <configuration name="day11_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day11.day11_4" />
       <module name="Programmers_IntroCodingTest" />
@@ -115,13 +63,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="day12_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day12.day12_1" />
+      <module name="Programmers_IntroCodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day12_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day12.day12_2" />
+      <module name="Programmers_IntroCodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day12_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day12.day12_3" />
+      <module name="Programmers_IntroCodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day12_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day12.day12_4" />
+      <module name="Programmers_IntroCodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.day12_4" />
+        <item itemvalue="애플리케이션.day12_3" />
+        <item itemvalue="애플리케이션.day12_2" />
+        <item itemvalue="애플리케이션.day12_1" />
         <item itemvalue="애플리케이션.day11_4" />
-        <item itemvalue="애플리케이션.day11_3" />
-        <item itemvalue="애플리케이션.day11_2" />
-        <item itemvalue="애플리케이션.day11_1" />
-        <item itemvalue="애플리케이션.day10_4" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +143,7 @@
       <workItem from="1707204074718" duration="6355000" />
       <workItem from="1707371854533" duration="6319000" />
       <workItem from="1707460217661" duration="6084000" />
-      <workItem from="1707532986117" duration="1570000" />
+      <workItem from="1707532986117" duration="4725000" />
     </task>
     <task id="LOCAL-00001" summary="240129">
       <created>1706526912358</created>
@@ -215,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707465807655</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="240210">
+      <created>1707534755825</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1707534755825</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,6 +250,7 @@
     <MESSAGE value="240203, 240207" />
     <MESSAGE value="240208" />
     <MESSAGE value="240209" />
-    <option name="LAST_COMMIT_MESSAGE" value="240209" />
+    <MESSAGE value="240210" />
+    <option name="LAST_COMMIT_MESSAGE" value="240210" />
   </component>
 </project>
