@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="166aeada-6583-43fc-91ff-ba320b83c88a" name="변경" comment="240225">
-      <change afterPath="$PROJECT_DIR$/src/Day23/day23_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day24/day24_1.java" afterDir="false" />
+    <list default="true" id="166aeada-6583-43fc-91ff-ba320b83c88a" name="변경" comment="240226">
+      <change afterPath="$PROJECT_DIR$/src/Day24/day24_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day24/day24_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day24/day24_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day25/day25_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day25/day25_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day25/day25_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day25/day25_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day23/day23_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day23/day23_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,61 +52,9 @@
     &quot;last_opened_file_path&quot;: &quot;E:/Study/Java/Programmers_IntroCodingTest&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.day24_1">
-    <configuration name="day23_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day23.day23_1" />
-      <module name="Programmers_IntroCodingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day23.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="day23_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day23.day23_2" />
-      <module name="Programmers_IntroCodingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day23.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="day23_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day23.day23_3" />
-      <module name="Programmers_IntroCodingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day23.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="day23_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day23.day23_4" />
-      <module name="Programmers_IntroCodingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day23.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="day24_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day24.day24_1" />
+  <component name="RunManager" selected="애플리케이션.day25_4">
+    <configuration name="day24_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day24.day24_4" />
       <module name="Programmers_IntroCodingTest" />
       <extension name="coverage">
         <pattern>
@@ -114,13 +66,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="day25_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day25.day25_1" />
+      <module name="Programmers_IntroCodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day25.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day25_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day25.day25_2" />
+      <module name="Programmers_IntroCodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day25.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day25_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day25.day25_3" />
+      <module name="Programmers_IntroCodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day25.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day25_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day25.day25_4" />
+      <module name="Programmers_IntroCodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day25.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.day24_1" />
-        <item itemvalue="애플리케이션.day23_4" />
-        <item itemvalue="애플리케이션.day23_3" />
-        <item itemvalue="애플리케이션.day23_2" />
-        <item itemvalue="애플리케이션.day23_1" />
+        <item itemvalue="애플리케이션.day25_4" />
+        <item itemvalue="애플리케이션.day25_3" />
+        <item itemvalue="애플리케이션.day25_2" />
+        <item itemvalue="애플리케이션.day25_1" />
+        <item itemvalue="애플리케이션.day24_4" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +153,10 @@
       <workItem from="1708344197152" duration="1913000" />
       <workItem from="1708412671603" duration="26069000" />
       <workItem from="1708840210181" duration="7943000" />
-      <workItem from="1708929942108" duration="4008000" />
+      <workItem from="1708929942108" duration="4156000" />
+      <workItem from="1708949281573" duration="594000" />
+      <workItem from="1709018225786" duration="6946000" />
+      <workItem from="1709191214058" duration="2525000" />
     </task>
     <task id="LOCAL-00001" summary="240129">
       <created>1706526912358</created>
@@ -312,7 +319,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708848603336</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="240226">
+      <created>1708934825468</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1708934825468</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -353,6 +367,7 @@
     <MESSAGE value="240221" />
     <MESSAGE value="240224" />
     <MESSAGE value="240225" />
-    <option name="LAST_COMMIT_MESSAGE" value="240225" />
+    <MESSAGE value="240226" />
+    <option name="LAST_COMMIT_MESSAGE" value="240226" />
   </component>
 </project>
